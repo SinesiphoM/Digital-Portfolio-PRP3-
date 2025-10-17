@@ -21,4 +21,4 @@ I achieved a score of 80% on the assessment, correctly answering four out of fiv
 - Efficient time management with complete question coverage
 - Demonstrated competency in core interview preparation strategies
 
-This performance shows solid interview knowledge with one specific concept that would benefit from additional review and practice.
+
