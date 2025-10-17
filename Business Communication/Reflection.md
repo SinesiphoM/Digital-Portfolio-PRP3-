@@ -25,4 +25,4 @@ I achieved a score of 100% on the assessment, correctly answering all six questi
 - Demonstrated understanding of both traditional and digital communication etiquette
 - Efficient time management while maintaining accuracy
 
-This successful outcome indicates a solid grasp of essential business communication principles that will support effective professional interactions in both written and digital formats.
+
