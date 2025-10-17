@@ -1,13 +1,24 @@
-# Reflection on Mock Interview Video
+# Reflection on Interview Skills Assessment
 
 ## Situation
-I participated in a recorded mock interview session designed to simulate a real job interview scenario. The interview covered common behavioral and technical questions relevant to my target field. The session was recorded for review and self-assessment purposes.
+I completed a formative assessment on Interview Skills on 07 March 2025. The assessment consisted of five multiple-choice questions covering fundamental interview concepts and techniques. I spent 8 minutes and 29 seconds completing the assessment and attempted all questions.
 
 ## Task
-My objective was to effectively present myself as a strong candidate by clearly articulating my skills and experiences, demonstrating professional communication and body language, providing structured responses using frameworks like STAR, handling challenging questions with poise, and conveying enthusiasm for the target role.
+My objective was to demonstrate understanding of key interview principles and strategies. The assessment required me to:
+- Identify the primary purpose of a job interview
+- Understand the application of the CAR method in interviews
+- Recognize the importance of company research before an interview
+- Determine the best approach to answering "Tell me about yourself"
+- Select the optimal strategy for discussing weaknesses in an interview
 
 ## Action
-To prepare for and engage in the mock interview, I researched common interview questions for the role and prepared concise answers, practiced speaking clearly and maintaining positive non-verbal cues, structured my responses to highlight relevant achievements, listened actively to questions, and requested the session be recorded to enable detailed self-review afterward.
+I approached the assessment methodically, spending adequate time on each question as shown by the consistent response times. I read each question carefully and selected answers based on my understanding of interview best practices and professional preparation techniques.
 
 ## Result
-Upon reviewing the recording, I observed several strengths including my effective use of the STAR method for behavioral questions, confident tone, and specific examples that highlighted my problem-solving skills. Areas for improvement include reducing filler words, providing more concise answers, and developing more relaxed body language. The mock interview was a valuable practice opportunity that highlighted both my preparedness and specific areas to refine before a real interview.
+I achieved a score of 80% on the assessment, correctly answering four out of five questions. The results indicate:
+- Strong understanding of most interview fundamentals
+- One area requiring improvement in interview methodology knowledge
+- Efficient time management with complete question coverage
+- Demonstrated competency in core interview preparation strategies
+
+This performance shows solid interview knowledge with one specific concept that would benefit from additional review and practice.
